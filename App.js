@@ -8,7 +8,7 @@ const App = () => {
 
   return (
     <SafeAreaView >
-      <Text >hahahhahahahha.js</Text>
+      <Text >OLÁ FABIO ESTE É MEU APPs</Text>
     </SafeAreaView>
   );
 };
